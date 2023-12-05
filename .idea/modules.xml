@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Devoir2Graphiques - Etudiant/Devoir2Graphiques.iml" filepath="$PROJECT_DIR$/Devoir2Graphiques - Etudiant/Devoir2Graphiques.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/DevoirJava2.iml" filepath="$PROJECT_DIR$/.idea/DevoirJava2.iml" />
+    </modules>
+  </component>
+</project>
